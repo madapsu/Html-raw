@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name= "descripion "content ="this is big world, be carfule  "/>
+    <title>welcome to my world </title>
+    <style>
+
+    </style>
+</head>
+
+<body  >
+    <a href="https://code.visualstudio.com/docs/?dv=win" target="blank">visual studio code</a>
+    <h1>title</h1>
+    <p>
+       <font color = "blue" size="1"face = "arial" > mansour <sup>ahmed</sup> dnklnfnfnfnfn <i>csdnnds</i> vnvd vnv vd dddfjnfnnffnfnefnbubvbiubvbveejvvv
+        fmmkrenvnnvefjnvefjivfjnifvnfnvssmvcnvsoosoireirj
+        <mark>dfdnnnwwnnnnnnnnnnnnnnn</mark>  <strong>fjenewfjn</strong>  fnjf ,mmfn  ccn c ck
+    </font>
+    </p>
+    <table align="center" border="1" bgcolor ="yellow" >
+        
+        
+        <tfoot>
+            <tr bgcolor ="blue">
+                <td colspan="2">
+                    300
+                </td>
+
+
+            </tr>
+        </tfoot>
+        <thead>  <tr><th colspan ="2"> name</th></tr>
+        </thead>
+        <tbody>
+        <tr><td>mansour</td><td rowspan="3">100</td></tr>
+        <tr><td>hussan</td></tr>
+        <tr><td>ahmed</td></tr>
+        <tbody>
+        
+    </table>
+    <img src="IMG_E3154.JPG" alt="  photo" width ="200">
+    <video src="https://youtu.be/UuBRd7GeARg" width ="200" controls poster="IMG_E3154.JPG" ></video>
+    <audio src="">
+
+    </audio>
+     <ol type="a">
+        <li>ahmed</li>
+        <li>omer</li>
+     </ol>
+     <ul type="square">
+        <li>ahmed</li>
+        <li>omer</li>
+     </ul>
+     
+ <details>
+<summary>title</summary>
+
+ </details>    
+ <embed src="Computer Networks (1).pdf" >
+    <embed src="https://www.cat.com/" >
+</body>
+
+
+</html>
